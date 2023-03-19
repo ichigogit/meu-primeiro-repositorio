@@ -1,1 +1,4 @@
-print(1 + 1)
+print("Somar números")
+primeiroNumero = int(input("1º numero:"))
+segundoNumero = int(input("2º numero:"))
+print(primeiroNumero + segundoNumero)
